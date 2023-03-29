@@ -12,7 +12,7 @@ roxo: #012030 */
 }
 
 html, body {
-    background-color: #012030;
+    background-image: linear-gradient(to bottom, #012030, #023b58);
     height: 100vh;
     width: 100vw;
 }
